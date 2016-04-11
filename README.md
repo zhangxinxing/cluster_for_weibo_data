@@ -56,4 +56,8 @@ k-means算法是最常用的聚类方法之一。传统的k-means算法产生局
 
 代码中，使用微博语料进行话题聚类实现。
 
-微博语料的下载地址：
+cluster_for_weibo_data.py是主程序
+
+stopwords.txt是分词时使用的停用词
+
+.csv 是微博语料，可以下载使用
